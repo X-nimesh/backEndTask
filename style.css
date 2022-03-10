@@ -1,0 +1,19 @@
+.error {
+  color: red;
+}
+form {
+  min-width: fit-content;
+  width: 25vw;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.submit {
+  border-radius: 20px;
+  background-color: rgb(56 113 255);
+  color: aliceblue;
+  padding: 10px;
+  border: none;
+}
